@@ -7,3 +7,4 @@ torchmetrics==1.7.4
 tqdm==4.67.1
 transformers==4.54.1
 streamlit==1.47.0
+st-pages==1.0.1

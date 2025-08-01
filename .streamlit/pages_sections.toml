@@ -1,0 +1,4 @@
+[[pages]]
+path = "pages/app_task-2.py"
+name = "Toxic_app"
+icon = "🚨"
